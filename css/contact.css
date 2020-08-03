@@ -1,0 +1,14 @@
+.back-color{
+    background: linear-gradient( #16c9f6 100%, #fff 0%);;
+}
+.btn-color{
+    background:linear-gradient( #16c9f6 100%, #fff 0%);; ;
+    
+}
+.btn-color :hover{
+    color: #50d1c0;
+    background: #fff;
+    
+
+
+}

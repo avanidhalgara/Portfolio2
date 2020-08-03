@@ -1,0 +1,13 @@
+.backg-color{
+    background: linear-gradient( #16c9f6 100%, #fff 0%);;
+}
+img{
+    margin-right: 10px;
+}
+.centerdiv{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+}
